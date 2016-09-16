@@ -19,13 +19,13 @@ const (
 <!DOCTYPE html>
 <html>
 
-<h1 style="color:chartreuse"> <big><big><big> Welcome to Poseidon </big></big></big> </h1>
+<h1 style="color:chartreuse"> <big><big><big> welcome to poSeiDoN </big></big></big> </h1>
 <body style="background-color:black;">
 
 <!-- decision engine -->
 <p>
-<a href="http://localhost:15672">
-<img src="http://sciencenordic.com/sites/default/files/imagecache/620x/rabbit_0.jpg" alt="decision engine" width="800" height="600" border="0">
+<a href="">
+<img src="https://raw.githubusercontent.com/lanhamt/poseidon_gui/master/decision_engine.gif" alt="decision engine" width="400" height="267" border="0">
 </a>
 </p>
 
