@@ -61,7 +61,7 @@ const (
     <!-- switch -->
     <tr>
     <a href="http://localhost">
-    <img src="https://farm2.static.flickr.com/1152/4731530618_29eec62bf1_b.jpg" alt="monitor" width="400" height="267" border="0">
+    <img src="https://farm2.static.flickr.com/1152/4731530618_29eec62bf1_b.jpg" alt="switch" width="400" height="267" border="0">
     </a>
     </tr>
 </table>
